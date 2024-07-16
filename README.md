@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shubham123498765.Shubham123498765" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shubham123498765.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shubham+Kumar+!;" />
 </h1>
 
 <h3 align="center">A aspiring software developer</h3>
