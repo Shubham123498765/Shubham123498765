@@ -62,7 +62,12 @@
 <br/><br/>
 
 <hr/>
-<!--
+
+<h2 align="center">HacktoberFest 2023 </h2>
+
+[![@Shubham Kumar Holopin board](https://holopin.me/shubhamkr1)](https://holopin.io/@aadi03)
+
+
 <br/>
 
 <div align="center">
@@ -72,8 +77,4 @@
 </div>
 
 <br/>
--->
 
-<h2 align="center">HacktoberFest 2023 </h2>
-
-[![@Shubham Kumar Holopin board](https://holopin.me/shubhamkr1)](https://holopin.io/@aadi03)
