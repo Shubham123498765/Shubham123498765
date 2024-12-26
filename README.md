@@ -63,9 +63,9 @@
 
 <hr/>
 
-<h2 align="center">HacktoberFest 2023 </h2>
+<h2 align="center">HacktoberFest 2024 </h2>
 
-[![@Shubham Kumar Holopin board](https://holopin.me/shubhamkr1)](https://holopin.io/@aadi03)
+[![@Shubham Kumar Holopin board](https://holopin.me/shubhamkr1)](https://holopin.io/@shubhamkr1)
 
 
 <br/>
